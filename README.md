@@ -16,6 +16,17 @@ pip install json
 pip install pandas
 ```
 
+### Execução
+``` sh
+$ git clone https://github.com/jonatasrossetto/News-TheGuardian.git
+$ cd news-theguardian
+$ pip install os
+$ pip install requests 
+$ pip install json
+$ pip install pandas
+$ python guardian1.py
+```
+
 ### Arquivo gerado
 ![Aplicação](fig1.png)
 ![Aplicação](fig2.png)

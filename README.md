@@ -1,5 +1,7 @@
 ![Python](https://www.python.org/static/img/python-logo@2x.png)
 
+![TheGuardian](https://media-manager.noticiasaominuto.com/naom_5ae1d9b0e3b1e.jpg?&w=1920)
+
 # News-TheGuardian
 Get the latest news headlines using the API from "The Guardian" newspaper.
 The guardian1.py script uses simple functions to enable often called procedures, function searchnews receives "The Guardian" API response, function searchnews process this data choosing specific themes for the headlines returning the news title and the news web link. Function exportar_csv writes down the specific theme results to csv file.
